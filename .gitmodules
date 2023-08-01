@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "iTOP"]
-	path = iTOP
-	url = https://github.com/cran/iTOP
 [submodule "TANDEM"]
 	path = TANDEM
 	url = https://github.com/cran/TANDEM
+[submodule "iTOP"]
+	path = iTOP
+	url = https://github.com/cran/iTOP
